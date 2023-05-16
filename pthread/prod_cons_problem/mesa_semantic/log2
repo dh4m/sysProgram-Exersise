@@ -1,0 +1,993 @@
+producer start
+consumer1 start
+producer locked mutex
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 start
+consumer2 locked mutex
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+consumer1 locked mutex
+consumer1 waiting
+producer locked mutex
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer2 recv signal - ready
+consumer2 try get: left count is 0
+consumer2 send signal
+consumer2 locked mutex
+consumer2 waiting
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 recv signal - ready
+consumer1 try get: left count is 0
+consumer1 send signal
+producer recv signal - ready
+producer try put: left count is 1
+producer send signal
+producer locked mutex
+producer waiting
+consumer1 locked mutex
+consumer1 try get: left count is 0
+consumer1 send signal
+consumer1 locked mutex
+consumer1 waiting
+consumer2 recv signal - ready
+wtf

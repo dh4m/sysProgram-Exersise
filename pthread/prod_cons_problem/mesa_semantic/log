@@ -1,0 +1,21 @@
+producer start
+consumer1 start
+producer locked mutex
+producer try put: left count is 1
+producer locked mutex
+producer waiting
+consumer2 start
+consumer1 locked mutex
+consumer1 try get: left count is 0
+consumer1 locked mutex
+consumer1 waiting
+producer ready
+producer try put: left count is 1
+producer locked mutex
+producer waiting
+consumer2 locked mutex
+consumer2 try get: left count is 0
+consumer2 locked mutex
+consumer2 waiting
+consumer1 ready
+wtf
